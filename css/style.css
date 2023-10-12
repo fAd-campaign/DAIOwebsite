@@ -1093,10 +1093,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: auto;
 }
 
-#supporters .supporter-logo:hover img {
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
-}
 
 #supporters img {
   transition: all 0.4s ease-in-out;
